@@ -1,2 +1,4 @@
-Hola, esta es la primera linea.
-Esta es la segunda linea.
+Hola, esta es la primera línea.
+Esta es la segunda línea.
+Y esta es la tercera.
+Y esta es la cuarta.
