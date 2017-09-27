@@ -1,4 +1,4 @@
 Hola, esta es la primera línea.
 Y esta es la tercera.
 Y esta es la cuarta.
-Añadamos mas lineas lol.
+Añadamos mas líneas lol.
