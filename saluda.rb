@@ -1,3 +1,3 @@
-print "¿Como te llamas?"
+print "¿Como te llamas? "
 nombre = gets.chomp
-puts "¡Hola a todo el mundo!"
+puts "¡Hola, #{nombre}!"
