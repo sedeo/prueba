@@ -1,5 +1,5 @@
 Hola, esta es la primera línea.
-Aqui tenemos la segunda linea del archivo.
+Y esta es la segunda.
 Y esta es la cuarta.
 Añadamos mas líneas lol.
 Y mas, y mas.
